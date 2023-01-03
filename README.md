@@ -17,7 +17,7 @@ A shell is a program that acts as an interface between a user and the kernel. It
 * Bourne Shell
 * Korn Shell
 * C Shell
-### 3. Hardware:
+#### 3. Hardware:
 Linux operating system contains a hardware layer that consists of several peripheral devices like CPU, HDD, and RAM.
-#### Commands
+### Commands
 
