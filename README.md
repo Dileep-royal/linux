@@ -1,8 +1,8 @@
 # Linux Tutorial
 
-# About Linux
-Linux is an Operating System(OS),that means an System Software that handles resources of a computer hardware  
-An operating system can be described as an interface among the computer hardware and the user of any computer.
+## About Linux
+1.Linux is an Operating System(OS),that means an System Software that handles resources of a computer hardware.
+2.An operating system can be described as an interface among the computer hardware and the user of any computer.
 
 ![# Architecture of Linux](https://static.javatpoint.com/linux/images/architecture-of-linux.png)
 
