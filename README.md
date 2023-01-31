@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## Linux Tutorial 
+=======
+# Linux Tutorial
+>>>>>>> 0733b8fec4c1cb471ca731067fcd752f2f672851
 
 ## About Linux
 Linux is an Operating System(OS), that means a System Software that handles resources of a computer hardware.  
